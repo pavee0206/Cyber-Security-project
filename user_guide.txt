@@ -1,0 +1,15 @@
+# user_guide.txt
+
+# How to Use the Vulnerability Scanning Script:
+
+1. Clone this repository to your local machine.
+2. Install the required dependencies using:
+   `pip install -r requirements.txt`
+3. Run the script `vulnerability_scan.py` by typing the following in the terminal:
+   `python vulnerability_scan.py`
+4. Enter the URL of the website you want to scan for SQL Injection.
+5. Review the results printed by the script.
+
+# Notes:
+- This is a basic script for educational purposes.
+- It detects simple SQL Injection patterns in the given URL.
