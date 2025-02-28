@@ -1,0 +1,9 @@
+Scan Report:
+- Target: http://example.com
+- Vulnerabilities Detected: 
+    1. SQL Injection on /login
+    2. XSS vulnerability on /search page
+
+Recommendations:
+1. Use parameterized queries to prevent SQL Injection.
+2. Sanitize inputs to prevent XSS.
